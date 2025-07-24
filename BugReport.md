@@ -1,4 +1,4 @@
-# BugReport.md – QA Observations for Newegg.com
+
 
 ## BR01: Cookie Consent Not Displayed on First Visit
 - **Page:** Homepage (incognito mode)
