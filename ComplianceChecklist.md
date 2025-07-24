@@ -1,4 +1,4 @@
-# ComplianceChecklist.md – Newegg Public QA Evaluation
+
 
 | Compliance Standard | Requirement | Observed Feature | Notes |
 |---------------------|-------------|------------------|-------|
