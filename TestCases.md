@@ -1,4 +1,3 @@
-# TestCases.md – Manual QA Test Cases for Newegg.com
 
 ## 1. Login and Signup
 
