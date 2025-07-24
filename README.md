@@ -1,4 +1,4 @@
-# README.md – Newegg QA Compliance Assessment
+
 
 This project provides a structured QA and compliance assessment of [Newegg.com](https://www.newegg.com), a major e-commerce platform. It evaluates the site’s adherence to GDPR, PCI-DSS, and general security standards using manual testing practices.
 
